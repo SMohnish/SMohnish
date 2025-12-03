@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mohnish
-- 👀 I’m a Data scientist
-- 🌱 I’m currently learning Machine learning
+- 👀 I’m a Data scientist and ML enginner
 - 📫 How to reach me ...9345792252
 
 <!---
