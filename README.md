@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohnish
 - 👀 I’m a Data scientist and ML enginner
-- 📫 How to reach me ...9345792252
+- 📫 How to reach me ...mohnishs2006@gmail.com
 
 <!---
 SMohnish/SMohnish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
